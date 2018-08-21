@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19592179-a2ff-4db6-9e98-6059f476c06d" name="Default Changelist" comment="" />
+    <list default="true" id="19592179-a2ff-4db6-9e98-6059f476c06d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/demo02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task_master.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task_worker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,56 +16,62 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Demo1$demo02.coverage" NAME="demo02 Coverage Results" MODIFIED="1534810575322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Demo1$demo03.coverage" NAME="demo03 Coverage Results" MODIFIED="1534822351032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Demo1$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1534473858445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/Demo1$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1534511031702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Demo1$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1534639360994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Demo1$demo04.coverage" NAME="demo04 Coverage Results" MODIFIED="1534835811765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Demo1$task_worker.coverage" NAME="task_worker Coverage Results" MODIFIED="1534830271385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Demo1$task_master.coverage" NAME="task_master Coverage Results" MODIFIED="1534830219622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="2085771638">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4870" />
+          <entry key="py" value="14099" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="4870" />
+          <entry key="Python" value="14099" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo01.py">
+        <entry file="file://$PROJECT_DIR$/demo04.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="403" column="17" lean-forward="true" selection-start-line="403" selection-start-column="17" selection-end-line="403" selection-end-column="17" />
+            <state relative-caret-position="-33">
+              <caret line="118" column="62" selection-start-line="118" selection-start-column="62" selection-end-line="118" selection-end-column="62" />
               <folding>
-                <marker date="1534511152042" expanded="true" signature="1802:1950" ph="..." />
-                <marker date="1534511152042" expanded="true" signature="2154:2249" ph="..." />
-                <marker date="1534511152042" expanded="true" signature="2674:2712" ph="..." />
-                <marker date="1534511152042" expanded="true" signature="3232:3239" ph="..." />
-                <marker date="1534511152042" expanded="true" signature="3315:3322" ph="..." />
-                <marker date="1534511152042" expanded="true" signature="3373:3380" ph="..." />
-                <marker date="1534511152042" expanded="true" signature="3483:3490" ph="..." />
-                <marker date="1534511152042" expanded="true" signature="3800:3818" ph="..." />
-                <marker date="1534511152042" expanded="true" signature="4293:4954" ph="..." />
-                <marker date="1534511152042" expanded="true" signature="5715:5827" ph="..." />
-                <marker date="1534511152042" expanded="true" signature="5851:5858" ph="..." />
-                <marker date="1534511152042" expanded="true" signature="6717:6724" ph="..." />
-                <marker date="1534511152042" expanded="true" signature="6900:6907" ph="..." />
-                <marker date="1534511152042" expanded="true" signature="6941:6948" ph="..." />
-                <marker date="1534511152042" expanded="true" signature="7496:7527" ph="..." />
-                <marker date="1534511152042" expanded="true" signature="8008:8250" ph="..." />
-                <marker date="1534511152042" expanded="true" signature="8327:8328" ph="..." />
-                <marker date="1534511152042" expanded="true" signature="8785:8812" ph="..." />
-                <marker date="1534511152042" expanded="true" signature="8869:8932" ph="..." />
+                <marker date="1534851729804" expanded="true" signature="316:321" ph="..." />
+                <marker date="1534851729804" expanded="true" signature="1868:1873" ph="..." />
+                <marker date="1534851729804" expanded="true" signature="2817:2822" ph="..." />
+                <marker date="1534851729804" expanded="true" signature="3173:3178" ph="..." />
+                <marker date="1534851729804" expanded="true" signature="3449:3515" ph="..." />
+                <marker date="1534851729804" expanded="true" signature="3904:3909" ph="..." />
+                <marker date="1534851729804" expanded="true" signature="3904:3975" ph="..." />
               </folding>
             </state>
           </provider>
@@ -73,10 +86,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/demo01.py" />
+        <option value="$PROJECT_DIR$/demo02.py" />
+        <option value="$PROJECT_DIR$/demo03.py" />
+        <option value="$PROJECT_DIR$/task_master.py" />
+        <option value="$PROJECT_DIR$/task_worker.py" />
+        <option value="$PROJECT_DIR$/demo04.py" />
       </list>
     </option>
   </component>
@@ -86,17 +107,19 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="670" />
-    <option name="width" value="703" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
     <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,6 +131,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -127,7 +151,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo01">
+  <component name="RunManager" selected="Python.demo04">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
       <module name="Demo1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Demo1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,7 +187,95 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Demo1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Demo1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_master" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Demo1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_master.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_worker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Demo1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_worker.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +286,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.demo01" />
+      <item itemvalue="Python.demo02" />
+      <item itemvalue="Python.demo03" />
+      <item itemvalue="Python.task_master" />
+      <item itemvalue="Python.task_worker" />
+      <item itemvalue="Python.demo04" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.demo01" />
+        <item itemvalue="Python.demo04" />
+        <item itemvalue="Python.task_worker" />
+        <item itemvalue="Python.task_master" />
+        <item itemvalue="Python.demo03" />
+        <item itemvalue="Python.demo02" />
       </list>
     </recent_temporary>
   </component>
@@ -196,18 +316,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="676" y="0" width="697" height="735" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
@@ -215,11 +329,17 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3294509" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,28 +351,86 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="403" column="17" lean-forward="true" selection-start-line="403" selection-start-column="17" selection-end-line="403" selection-end-column="17" />
+        <state relative-caret-position="180">
+          <caret line="328" column="6" selection-start-line="328" selection-start-column="6" selection-end-line="328" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="926">
+          <caret line="353" lean-forward="true" selection-start-line="353" selection-end-line="353" />
           <folding>
-            <marker date="1534511152042" expanded="true" signature="1802:1950" ph="..." />
-            <marker date="1534511152042" expanded="true" signature="2154:2249" ph="..." />
-            <marker date="1534511152042" expanded="true" signature="2674:2712" ph="..." />
-            <marker date="1534511152042" expanded="true" signature="3232:3239" ph="..." />
-            <marker date="1534511152042" expanded="true" signature="3315:3322" ph="..." />
-            <marker date="1534511152042" expanded="true" signature="3373:3380" ph="..." />
-            <marker date="1534511152042" expanded="true" signature="3483:3490" ph="..." />
-            <marker date="1534511152042" expanded="true" signature="3800:3818" ph="..." />
-            <marker date="1534511152042" expanded="true" signature="4293:4954" ph="..." />
-            <marker date="1534511152042" expanded="true" signature="5715:5827" ph="..." />
-            <marker date="1534511152042" expanded="true" signature="5851:5858" ph="..." />
-            <marker date="1534511152042" expanded="true" signature="6717:6724" ph="..." />
-            <marker date="1534511152042" expanded="true" signature="6900:6907" ph="..." />
-            <marker date="1534511152042" expanded="true" signature="6941:6948" ph="..." />
-            <marker date="1534511152042" expanded="true" signature="7496:7527" ph="..." />
-            <marker date="1534511152042" expanded="true" signature="8008:8250" ph="..." />
-            <marker date="1534511152042" expanded="true" signature="8327:8328" ph="..." />
-            <marker date="1534511152042" expanded="true" signature="8785:8812" ph="..." />
-            <marker date="1534511152042" expanded="true" signature="8869:8932" ph="..." />
+            <marker date="1534820336188" expanded="true" signature="88:186" ph="..." />
+            <marker date="1534820336188" expanded="true" signature="200:233" ph="..." />
+            <marker date="1534820336188" expanded="true" signature="816:823" ph="..." />
+            <marker date="1534820336188" expanded="true" signature="816:827" ph="..." />
+            <marker date="1534820336188" expanded="true" signature="1392:1399" ph="..." />
+            <marker date="1534820336188" expanded="true" signature="1920:1931" ph="..." />
+            <marker date="1534820336188" expanded="true" signature="1920:1966" ph="..." />
+            <marker date="1534820336188" expanded="true" signature="1994:2009" ph="..." />
+            <marker date="1534820336188" expanded="true" signature="3057:3064" ph="..." />
+            <marker date="1534820336188" expanded="true" signature="3716:3723" ph="..." />
+            <marker date="1534820336188" expanded="true" signature="4744:4754" ph="..." />
+            <marker date="1534820336188" expanded="true" signature="5004:5005" ph="..." />
+            <marker date="1534820336188" expanded="true" signature="6930:7213" ph="..." />
+            <marker date="1534820336188" expanded="true" signature="7234:7801" ph="..." />
+            <marker date="1534820336188" expanded="true" signature="7975:8729" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
+          <folding>
+            <element signature="e#365#400#0" expanded="true" />
+            <marker date="1534827166251" expanded="true" signature="441:446" ph="..." />
+            <marker date="1534827166251" expanded="true" signature="819:824" ph="..." />
+            <marker date="1534827166251" expanded="true" signature="2619:2624" ph="..." />
+            <marker date="1534827166251" expanded="true" signature="3148:3212" ph="..." />
+            <marker date="1534827166251" expanded="true" signature="3230:3235" ph="..." />
+            <marker date="1534827166251" expanded="true" signature="3513:3518" ph="..." />
+            <marker date="1534827166251" expanded="true" signature="3662:3667" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_worker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <element signature="e#8#29#0" expanded="true" />
+            <marker date="1534830128992" expanded="true" signature="131:844" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_master.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+            <marker date="1534830128967" expanded="true" signature="205:210" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-33">
+          <caret line="118" column="62" selection-start-line="118" selection-start-column="62" selection-end-line="118" selection-end-column="62" />
+          <folding>
+            <marker date="1534851729804" expanded="true" signature="316:321" ph="..." />
+            <marker date="1534851729804" expanded="true" signature="1868:1873" ph="..." />
+            <marker date="1534851729804" expanded="true" signature="2817:2822" ph="..." />
+            <marker date="1534851729804" expanded="true" signature="3173:3178" ph="..." />
+            <marker date="1534851729804" expanded="true" signature="3449:3515" ph="..." />
+            <marker date="1534851729804" expanded="true" signature="3904:3909" ph="..." />
+            <marker date="1534851729804" expanded="true" signature="3904:3975" ph="..." />
           </folding>
         </state>
       </provider>
